@@ -1,1 +1,19 @@
 # revecca
+레베카체
+
+<pre>
+@font-face {
+    font-family: "revecca";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/revecca/revecca.eot");
+    src: url("https://cdn.jsdelivr.net/gh/wefonts/revecca/revecca.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/revecca/revecca.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/revecca/revecca.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/wefonts/revecca/revecca.ttf") format("truetype");
+    font-display: swap;
+}
+.revecca {
+    font-family: "revecca";
+}
+</pre>
